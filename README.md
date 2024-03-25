@@ -4,7 +4,7 @@ This is the updated implementation for the accpeted ISBI2023 paper: Precise Few-
 
 More codes will be added to convert the original 2D implementation into 3D
 
-![Muscle_Seg_Updated](./imgs/framework.pdf)
+![Muscle_Seg_Updated](./imgs/framework_final.png)
 
 ## Dependencies
 
