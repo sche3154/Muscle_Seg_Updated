@@ -1,4 +1,4 @@
-This is the updated implementation for the accpeted ISBI2023 paper: Precise Few-shot Fat-free Thigh Muscle Segmentation in T1-weighted MRI.
+This is the updated implementation for the accpeted **ISBI2023 paper**: Precise Few-shot Fat-free Thigh Muscle Segmentation in T1-weighted MRI.
 
 --orginal paper: https://ieeexplore.ieee.org/abstract/document/10230430
 
